@@ -5,7 +5,7 @@ quote: GGEZ.
 cite: IZI.
 ---
 
-Welcome to Rowdy Gaming (eSports at UTSA) we playing video games on our phones. Learn how to become a member below!
+Welcome to Rowdy Gaming (eSports at UTSA) we play video games on PC, on our phones, and sometimes consoles. It's absolutely free to be a member, become a member by filling out the information below!!
 
 1. [Join Our Facebook](https://www.facebook.com/groups/333557503362963/)
 2. [Join Our Mailing List](http://eepurl.com/cd_mEf)
