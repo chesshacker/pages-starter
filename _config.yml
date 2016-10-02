@@ -16,7 +16,7 @@
 title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
-baseurl: "/rowdygaming" # the subpath of your site
+baseurl: "/RowdyGaming" # the subpath of your site
 url: "https://kaitlin1.github.io"
 email: 
 github_username:  kaitlin1
