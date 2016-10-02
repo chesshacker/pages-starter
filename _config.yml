@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hack on GitHub Pages
+title: eSports at UTSA
 description: >
-  This site will get you started hacking with GitHub Pages.
-baseurl: "/tamuhack" # the subpath of your site
-url: "https://steveortiz.github.io"
-email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
+  You got games on your phone?
+baseurl: "/RowdyGaming" # the subpath of your site
+url: "https://kaitlin1.github.io"
+email: 
+github_username:  kaitlin1
+linkedin_username: 
+twitter_username: 
 
 # Build settings
 markdown: kramdown
