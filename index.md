@@ -11,5 +11,5 @@ Welcome to Rowdy Gaming (eSports at UTSA) we playing video games on our phones. 
 2. [Git Gud](https://kaitlin1.github.io/RowdyGaming/getgood)
 
 
-That's it! You should now download the only game we play - [Blade & Soul](www.bladeandsoul.com).
+That's it! You should now download the only game we play - [Blade & Soul](https://www.bladeandsoul.com).
 
