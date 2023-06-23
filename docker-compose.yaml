@@ -1,0 +1,12 @@
+version: '2'
+services:
+  jekyll:
+    image: jekyll/jekyll:pages
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
+    #  restart: always
+    environment:
+      - BUNDLE_PATH=./vendor/bundle
+    command: bundle exec jekyll serve --force_polling
